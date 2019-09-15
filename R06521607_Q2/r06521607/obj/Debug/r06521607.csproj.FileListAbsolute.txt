@@ -1,0 +1,10 @@
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q2\r06521607\bin\Debug\r06521607.exe.config
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q2\r06521607\bin\Debug\r06521607.exe
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q2\r06521607\bin\Debug\r06521607.pdb
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q2\r06521607\obj\Debug\r06521607.csprojAssemblyReference.cache
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q2\r06521607\obj\Debug\r06521607.Form1.resources
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q2\r06521607\obj\Debug\r06521607.Properties.Resources.resources
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q2\r06521607\obj\Debug\r06521607.csproj.GenerateResource.cache
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q2\r06521607\obj\Debug\r06521607.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q2\r06521607\obj\Debug\r06521607.exe
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q2\r06521607\obj\Debug\r06521607.pdb

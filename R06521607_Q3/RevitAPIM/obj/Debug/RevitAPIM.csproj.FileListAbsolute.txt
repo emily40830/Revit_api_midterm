@@ -1,0 +1,5 @@
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q3\RevitAPIM\bin\Debug\RevitAPIM.dll
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q3\RevitAPIM\bin\Debug\RevitAPIM.pdb
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q3\RevitAPIM\obj\Debug\RevitAPIM.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q3\RevitAPIM\obj\Debug\RevitAPIM.dll
+C:\Users\emily\OneDrive\桌面\王琪驊_midexam\R06521607_Q3\RevitAPIM\obj\Debug\RevitAPIM.pdb
